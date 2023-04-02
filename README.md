@@ -1,11 +1,14 @@
-*Project Title:*
-Stores Sales Prediction
+**Project Title:**
 
-*Tech:*
-Machine Learning
+`Stores Sales Prediction`
 
-*Domain:*
-Sales & Marketing
+**Tech:**
+
+`Machine Learning`
+
+**Domain:**
+
+`Sales & Marketing`
 
 ### Problem Statement:
 Nowadays, shopping malls and Big Marts keep track of individual item sales data in
